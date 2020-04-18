@@ -1,0 +1,51 @@
+[
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "praveen recharge ",
+        "Amount Spent": 150,
+        "Total amt Spent": "Amt spent until now 150"
+    },
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "praveen exp",
+        "Amount Spent": 550,
+        "Total amt Spent": "Amt spent until now 700"
+    },
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "praveen",
+        "Amount Spent": 600,
+        "Total amt Spent": "Amt spent until now 1300"
+    },
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "naveen exp",
+        "Amount Spent": 200,
+        "Total amt Spent": "Amt spent until now 1500"
+    },
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "cooper food",
+        "Amount Spent": 1700,
+        "Total amt Spent": "Amt spent until now 3200"
+    },
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "shopping 2 times",
+        "Amount Spent": 5000,
+        "Total amt Spent": "Amt spent until now 8200"
+    },
+    {
+        "Date": "18/04/2020",
+        "Month": "April",
+        "Reason": "dad exp",
+        "Amount Spent": 2500,
+        "Total amt Spent": "Amt spent until now 10700"
+    }
+]
