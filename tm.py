@@ -3,8 +3,6 @@ import datetime
 from datetime import date
 import os
 from time import sleep
-# from selenium import webdriver
-# from selenium.webdriver.common.keys import Keys
 
 class Json_file():
     dd_mm_yyyy = date.today()
@@ -86,7 +84,7 @@ if choice == 1:
         from pdf import json_pdf
         json_pdf()
         sleep(2)
-        os.remove('D:/OTHER FILES D/CS ALL FOLD/Python own projects/trackmoney v 2.0/trackmoney.json')
+        os.remove('path/trackmoney.json')
         print("Removed trackmoney json file")
     else:
         print("Date did match press 1 either on 30 or 31")
